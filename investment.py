@@ -1,3 +1,5 @@
+# rename this your variables, what is p, what r and all ??
+
 <<<<<<< HEAD
 p = 10000
 
